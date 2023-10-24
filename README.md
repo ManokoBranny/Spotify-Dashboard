@@ -16,3 +16,8 @@
 ![Music Data Dashboard Screenshot](https://github.com/ManokoBranny/Spotify-Dashboard/blob/main/Screenshot%202023-10-23%20at%2010.29.28.png)
 
 
+# Acknowledgements 
+
+I want to extend my heartfelt thanks to Onyx Data, ZoomCharts, @Data Career Jumpstart, novyPro, DATAcated, The AI Journal, and the wonderful #dataDNA community for organizing this fantastic event.
+
+

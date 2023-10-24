@@ -13,6 +13,6 @@
 🚀 Check out the live demo of the spotifyashboard here: https://app.powerbi.com/view?r=eyJrIjoiMWZjNDZhYTktZThlYy00MzA5LTgzMGYtMTg2ZDJmMGQwY2NkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
 
-![Music Data Dashboard Screenshot](screenshots/dashboard-screenshot.png)
+![Music Data Dashboard Screenshot](https://github.com/ManokoBranny/Spotify-Dashboard/blob/main/Screenshot%202023-10-23%20at%2010.29.28.png)
 
 

@@ -10,7 +10,7 @@
 🏆 Top 10 Charts: Instantly discover the Top 10 most streamed songs during your selected period.
 
 # Demo
-🚀 Check out the live demo of the Music Data Dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMWZjNDZhYTktZThlYy00MzA5LTgzMGYtMTg2ZDJmMGQwY2NkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+🚀 Check out the live demo of the spotifyashboard here: https://app.powerbi.com/view?r=eyJrIjoiMWZjNDZhYTktZThlYy00MzA5LTgzMGYtMTg2ZDJmMGQwY2NkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
 
 
